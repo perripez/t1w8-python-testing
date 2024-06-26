@@ -51,5 +51,5 @@ __Note: it's a great idea to organise your directory structure for miantenance a
     - Read
     - Write
     - Close (to ensure buffers are flushes and resources are freed)
-- 'with' statement:
+- 'with' statement: automaticaly closes the file when you're done.
 
